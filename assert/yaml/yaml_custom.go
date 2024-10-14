@@ -12,7 +12,7 @@
 //
 // In your test package:
 //
-//		import assertYaml "github.com/stretchr/testify/assert/yaml"
+//		import assertYaml "github.com/01ne/testify/assert/yaml"
 //
 //		func init() {
 //			assertYaml.Unmarshal = func (in []byte, out interface{}) error {

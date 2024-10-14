@@ -1,4 +1,4 @@
-// Code generated with github.com/stretchr/testify/_codegen; DO NOT EDIT.
+// Code generated with github.com/01ne/testify/_codegen; DO NOT EDIT.
 
 package assert
 

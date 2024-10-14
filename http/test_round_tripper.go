@@ -3,7 +3,7 @@ package http
 import (
 	"net/http"
 
-	"github.com/stretchr/testify/mock"
+	"github.com/01ne/testify/mock"
 )
 
 // Deprecated: Use [net/http/httptest] instead.
